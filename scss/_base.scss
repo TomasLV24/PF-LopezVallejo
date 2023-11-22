@@ -14,6 +14,9 @@ $ff-pacifico:'Pacifico';
 
 body {
     background-image: url("../images/diseno-patron-cafe.avif");
+    display: grid;
+    min-height: 100vh;
+    grid-template-rows: auto 1fr auto;
 }
 
 .titulos {
