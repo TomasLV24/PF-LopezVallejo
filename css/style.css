@@ -1,3 +1,4 @@
+/* -----BASE----- */
 * {
   margin: 0;
   padding: 0;
@@ -52,10 +53,12 @@ a {
   box-shadow: 10px 10px 4px;
 }
 
+/* -----FOOTER----- */
 .icon-margin {
   margin: 6px;
 }
 
+/* -----INDEX----- */
 .img-carrusel {
   height: 400px;
   width: 30px;
@@ -67,6 +70,7 @@ a {
   border-radius: 90px;
 }
 
+/* -----NOSOTROS----- */
 .img-nosotros {
   width: 300px;
 }
